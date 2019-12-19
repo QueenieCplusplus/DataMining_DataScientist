@@ -7,6 +7,14 @@
 
 透過工具或平台，如下
 
+            SQL      Stream      ML      Graph Process
+
+
+                               RDD
+
+
+                            Scheduler        
+
 
 
 
